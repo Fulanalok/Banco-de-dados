@@ -1,0 +1,34 @@
+Cliente:
+Nome
+CEP
+Telefone
+> Escolhe
+Produto 
+Nome
+Preço
+Categoria
+> Categoria 
+Bolo 
+Bolo de Laranja
+Bolo de chocolate 
+Bolo de baunilha
+
+Café
+Café com leite 
+Expresso
+Cappuccino
+
+Bedidas 
+Água mineral 
+Chocolate quente
+Milkshake
+
+Pedido:
+Hora do pedido
+Quantidade
+Preço do item
+
+itens do pedido:
+Item 
+Produto 
+Preço do item
